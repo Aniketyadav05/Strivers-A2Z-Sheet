@@ -1,4 +1,4 @@
-// Pascal triangle
+// Pascal triangles
 class Solution {
 public:
     vector<int> generator(int num){
